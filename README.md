@@ -2,10 +2,10 @@
 
 ## Index
 
-[1. Motivation](#motivation)
-[2. Requirements and Installation](#requirements)
-[3. Project](#project)
-[4. Acknowledgements](#acknowledgements)
+1. [Motivation](#motivation)
+2. [Requirements and Installation](#requirements)
+3. [Project](#project)
+4. [Acknowledgements](#acknowledgements)
 
 <a name="motivation"></a>
 ### Motivation
@@ -29,6 +29,6 @@ The answer to each question can be found here.
 
 The second stage of the project consists on finding other relationships within the data useful to predict the price of a property. This model can be found here.
 
-<a name=""acknowledgements""></a>
+<a name="acknowledgements"></a>
 ### Acknowledgements
 
