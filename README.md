@@ -7,17 +7,17 @@
 [3. Project](#project)
 [4. Acknowledgements](#acknowledgements)
 
-<a name="motivation"/>
+<a name="motivation"></a>
 ### Motivation
 
 Mexico is one of the biggest cities in the world and as such, it has a lot of different attarctions, neighbourhoods and of course, prices in Airbnb listings, our intention is to find the drivers of properties prices and finally to predict them.
 
-<a name="requirements"/>
+<a name="requirements"></a>
 ### Requirements
 
 The database used in this notebook and many more from different cities accross the globe can be found [here](http://insideairbnb.com/get-the-data.html).
 
-<a name="project"/>
+<a name="projects"></a>
 ### Project
 
 The first thing done in this project was the formulation of 3 questions:
@@ -29,5 +29,6 @@ The answer to each question can be found here.
 
 The second stage of the project consists on finding other relationships within the data useful to predict the price of a property. This model can be found here.
 
-<a name="acknowledgements"/>
+<a name=""acknowledgements""></a>
 ### Acknowledgements
+
