@@ -15,20 +15,23 @@ Mexico is one of the biggest cities in the world and as such, it has a lot of di
 <a name="requirements"></a>
 ### Requirements
 
-The database used in this notebook and many more from different cities accross the globe can be found [here](http://insideairbnb.com/get-the-data.html).
+The database used in this notebook is in the file listings from this repository, data from different cities accross the globe can be found [here](http://insideairbnb.com/get-the-data.html).
+
+Since plotly graphs are heavy, the notebook may not load, it is important to clone the project in order to see and follow the results.
 
 <a name="projects"></a>
 ### Project
 
-The first thing done in this project was the formulation of 3 questions:
-* Which neighbourhood is the more expensive?
-* Which neighbourhood has more super hosts?
-* Is there a relantionship between super hosts and price in the neighbourhoods?
+This project aims to answer 5 questions:
+* Which neighborhood is the more expensive?
+* Which neighborhood has more super hosts?
+* Is there a relationship between super hosts and price in the neighborhoods?
+* Why are these neighborhoods more expensive?
+* Are there other variables that drive the price?
 
-The answer to each question can be found here.
-
-The second stage of the project consists on finding other relationships within the data useful to predict the price of a property. This model can be found here.
+The answer to each question can be found [here](https://github.com/MauricioTrejo/AirbnbMX/blob/dev/Notebook.ipynb).
 
 <a name="acknowledgements"></a>
 ### Acknowledgements
 
+We want to thank Airbnb for the data used in this project.
