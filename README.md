@@ -10,7 +10,7 @@
 <a name="motivation"></a>
 ### Motivation
 
-Mexico is one of the biggest cities in the world and as such, it has a lot of different attarctions, neighbourhoods and of course, prices in Airbnb listings, our intention is to find the drivers of properties prices and finally to predict them.
+Mexico is one of the biggest cities in the world and as such, it has a lot of different attractions, neighborhoods and of course, prices in Airbnb listings, our intention is to find the drivers of properties prices and finally to predict them.
 
 <a name="requirements"></a>
 ### Requirements
